@@ -1,0 +1,6 @@
+print("===================================")
+print("== Name : Palak Jaiswal          ==")
+print("== Course : BSC.Computer Science ==")
+print("== Semester : 3                  ==")
+print("== Seat No : 88                  ==")
+print("===================================")
