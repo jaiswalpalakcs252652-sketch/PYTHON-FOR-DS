@@ -1,0 +1,16 @@
+Employee_ID,Name,Gender,Age,Department,Experience,Salary
+E101,Amit,Male,25,IT,2,35000
+E102,Sneha,Female,27,HR,4,42000
+E103,Rahul,Male,29,IT,5,55000
+E104,Priya,Female,31,Finance,7,68000
+E105,Neha,Female,26,IT,3,45000
+E106,Rohan,Male,30,Sales,6,52000
+E107,Pooja,Female,28,HR,5,48000
+E108,Karan,Male,24,IT,1,30000
+E109,Anjali,Female,32,Finance,8,75000
+E110,Vikas,Male,35,Sales,10,82000
+E111,Meena,Female,29,IT,6,60000
+E112,Arjun,Male,27,HR,3,40000
+E113,Simran,Female,33,Finance,9,78000
+E114,Akash,Male,26,Sales,3,44000
+E115,Kavita,Female,30,IT,7,65000

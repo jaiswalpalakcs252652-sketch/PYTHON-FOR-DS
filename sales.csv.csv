@@ -1,0 +1,16 @@
+Order_ID,Product,Category,Quantity,Price,Sales,Region
+O101,Laptop,Electronics,2,55000,110000,West
+O102,Mouse,Accessories,10,800,8000,North
+O103,Keyboard,Accessories,8,1500,12000,South
+O104,Monitor,Electronics,4,12000,48000,West
+O105,Laptop,Electronics,3,55000,165000,North
+O106,Printer,Electronics,2,18000,36000,East
+O107,Mouse,Accessories,15,800,12000,West
+O108,Keyboard,Accessories,10,1500,15000,North
+O109,Monitor,Electronics,5,12000,60000,South
+O110,Laptop,Electronics,1,55000,55000,East
+O111,Printer,Electronics,3,18000,54000,West
+O112,Mouse,Accessories,20,800,16000,South
+O113,Keyboard,Accessories,12,1500,18000,East
+O114,Monitor,Electronics,6,12000,72000,North
+O115,Laptop,Electronics,2,55000,110000,South
